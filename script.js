@@ -177,6 +177,8 @@ var $aa$ = {
             data = data[path];
         }
         return data;
+    },
+    testfunction:function(){
     }
 }
 		
