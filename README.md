@@ -1,4 +1,4 @@
-# $aa$.js - A library to make performant templates
+# $aa$.js - A library to make performant templates 
 
 
 
@@ -6,7 +6,7 @@ The framework uses html dom-fragment to generate dom nodes thus reducing the par
 Easily usable with html attributes. Simpler syntax makes the framework organic. 
 
 
-#Examples
+#Examples 1
 
 json: (resp)
 {"transactions":[{"tid":1,"transactioncategory":"payment"},{"tid":2,"transactioncategory":"income"}]}
