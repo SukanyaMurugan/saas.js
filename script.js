@@ -178,7 +178,7 @@ var $aa$ = {
         }
         return data;
     },
-    testfunction:function(){
+    testfunction:function(param1){
     }
 }
 		
