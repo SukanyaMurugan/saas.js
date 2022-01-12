@@ -179,7 +179,7 @@ var $aa$ = {
         return data;
     },
     testfunction:function(param1){
-	    return 3;
+	    return 36;
     }
 }
 		
